@@ -29,7 +29,6 @@ Whether you're a seasoned chef or a culinary novice, Tasty Delights is your ulti
 ![Home](https://github.com/AHMED-REBII/Tasty/blob/main/ScreenShots/0.png?raw=true)
 ### "HomeScreen"
 ![Home](https://github.com/AHMED-REBII/Tasty/blob/main/ScreenShots/1.png?raw=true)
-
 ![Home](https://github.com/AHMED-REBII/Tasty/blob/main/ScreenShots/2.png?raw=true)
 ### "RecipeDetailsScreen"
 ![Home](https://github.com/AHMED-REBII/Tasty/blob/main/ScreenShots/3.png?raw=true)
